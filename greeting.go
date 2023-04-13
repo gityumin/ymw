@@ -7,6 +7,3 @@ import (
 func Greeting() {
 	fmt.Println("Hello, Yumin!")
 }
-func main() {
-	Greeting()
-}
